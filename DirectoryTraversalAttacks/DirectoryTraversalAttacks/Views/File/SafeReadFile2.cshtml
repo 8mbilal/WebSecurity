@@ -1,0 +1,33 @@
+﻿@model FileViewModel
+@{
+    ViewData["Title"] = "SafeReadFile2";
+}
+<div class="container mt-4">
+    <h1>File Reader</h1>
+    <form asp-action="SafeReadFile2" method="post">
+        <div class="form-group">
+            <label for="filePath">File Path</label>
+            <input type="text" id="filePath" name="FilePath" class="form-control" placeholder="Enter the file path within wwwroot/files..." />
+        </div>
+        <button type="submit" class="btn btn-primary mt-2">Read File</button>
+    </form>
+
+    <!-- Hint Section -->
+    <div class="alert alert-warning mt-4">
+        <strong>Hint:</strong> Try the following paths to check the safety of the file reading:
+        <ul>
+            <li><code>../../Properties/launchSettings.json</code> (Expected: Blocked, but after sanitized it accessible if exist)</li>
+            <li><code>../../appsettings.json</code> (Expected: Blocked, but after sanitized it accessible if exist)</li>
+            <li><code>../../Controllers/FileController.cs</code> (Expected: Blocked, but after sanitized it accessible if exist)</li>
+            <li><code>../../Program.cs</code> (Expected: Blocked, but after sanitized it accessible if exist)</li>
+            <li><code>documents/report.txt</code> (Expected: Accessible)</li>
+        </ul>
+        <p>If the action is safe, only files within the <code>wwwroot/files</code> directory should be accessible.</p>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,25 @@
+﻿@model string
+@{
+    ViewData["Title"] = "FileContent";
+}
+<div class="container mt-4">
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            @Html.Raw(TempData["SuccessMessage"])
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+        <h1>File Content</h1>
+        <pre>@Model</pre> 
+        <a href="/File/Index" class="btn btn-primary">Go Back</a>
+    }
+    else
+    {
+        <div class="alert alert-danger" role="alert">
+            <h4 class="alert-heading">File Not Found</h4>
+            <p>@Html.Raw(TempData["ErrorMessage"])</p> 
+            <hr>
+            <a href="/File/Index" class="btn btn-primary">Go Back</a>
+        </div>
+    }
+</div>

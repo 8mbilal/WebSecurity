@@ -1,0 +1,19 @@
+﻿@model FileViewModel
+@{
+    ViewData["Title"] = "ReadFile";
+}
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        @TempData["Message"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<div class="text-center">
+    <h2 class="display-6 mb-lg-5">Defending against Directory Traversal Attack</h2>
+    <p>Click <a href="/File/VulnerableReadFile">here</a> to read file using unsafe method.</p>
+    <p>Click <a href="/File/SafeReadFile1">here</a> to read file using safe method 1.</p>
+    <p>Click <a href="/File/SafeReadFile2">here</a> to read file using safe method 2.</p>
+</div>

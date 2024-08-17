@@ -1,0 +1,60 @@
+C:\Users\456bi\source\repos\DirectoryTraversalAttacks\DirectoryTraversalAttacks\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\456bi\source\repos\DirectoryTraversalAttacks\DirectoryTraversalAttacks\bin\Debug\net8.0\appsettings.json
+C:\Users\456bi\source\repos\DirectoryTraversalAttacks\DirectoryTraversalAttacks\bin\Debug\net8.0\DirectoryTraversalAttacks.staticwebassets.runtime.json
+C:\Users\456bi\source\repos\DirectoryTraversalAttacks\DirectoryTraversalAttacks\bin\Debug\net8.0\DirectoryTraversalAttacks.exe
+C:\Users\456bi\source\repos\DirectoryTraversalAttacks\DirectoryTraversalAttacks\bin\Debug\net8.0\DirectoryTraversalAttacks.deps.json
+C:\Users\456bi\source\repos\DirectoryTraversalAttacks\DirectoryTraversalAttacks\bin\Debug\net8.0\DirectoryTraversalAttacks.runtimeconfig.json
+C:\Users\456bi\source\repos\DirectoryTraversalAttacks\DirectoryTraversalAttacks\bin\Debug\net8.0\DirectoryTraversalAttacks.dll
+C:\Users\456bi\source\repos\DirectoryTraversalAttacks\DirectoryTraversalAttacks\bin\Debug\net8.0\DirectoryTraversalAttacks.pdb
+C:\Users\456bi\source\repos\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\DirectoryTraversalAttacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\456bi\source\repos\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\DirectoryTraversalAttacks.AssemblyInfoInputs.cache
+C:\Users\456bi\source\repos\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\DirectoryTraversalAttacks.AssemblyInfo.cs
+C:\Users\456bi\source\repos\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\DirectoryTraversalAttacks.csproj.CoreCompileInputs.cache
+C:\Users\456bi\source\repos\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\DirectoryTraversalAttacks.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\456bi\source\repos\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\DirectoryTraversalAttacks.RazorAssemblyInfo.cache
+C:\Users\456bi\source\repos\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\DirectoryTraversalAttacks.RazorAssemblyInfo.cs
+C:\Users\456bi\source\repos\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\456bi\source\repos\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\456bi\source\repos\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\staticwebassets\msbuild.DirectoryTraversalAttacks.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\456bi\source\repos\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\staticwebassets\msbuild.build.DirectoryTraversalAttacks.props
+C:\Users\456bi\source\repos\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DirectoryTraversalAttacks.props
+C:\Users\456bi\source\repos\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DirectoryTraversalAttacks.props
+C:\Users\456bi\source\repos\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\456bi\source\repos\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\456bi\source\repos\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\scopedcss\bundle\DirectoryTraversalAttacks.styles.css
+C:\Users\456bi\source\repos\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\scopedcss\projectbundle\DirectoryTraversalAttacks.bundle.scp.css
+C:\Users\456bi\source\repos\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\DirectoryTraversalAttacks.dll
+C:\Users\456bi\source\repos\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\refint\DirectoryTraversalAttacks.dll
+C:\Users\456bi\source\repos\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\DirectoryTraversalAttacks.pdb
+C:\Users\456bi\source\repos\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\DirectoryTraversalAttacks.genruntimeconfig.cache
+C:\Users\456bi\source\repos\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\ref\DirectoryTraversalAttacks.dll
+C:\Users\456bi\Downloads\Presentation\3. Coding Examples\DirectoryTraversalAttacks\DirectoryTraversalAttacks\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\456bi\Downloads\Presentation\3. Coding Examples\DirectoryTraversalAttacks\DirectoryTraversalAttacks\bin\Debug\net8.0\appsettings.json
+C:\Users\456bi\Downloads\Presentation\3. Coding Examples\DirectoryTraversalAttacks\DirectoryTraversalAttacks\bin\Debug\net8.0\DirectoryTraversalAttacks.staticwebassets.runtime.json
+C:\Users\456bi\Downloads\Presentation\3. Coding Examples\DirectoryTraversalAttacks\DirectoryTraversalAttacks\bin\Debug\net8.0\DirectoryTraversalAttacks.exe
+C:\Users\456bi\Downloads\Presentation\3. Coding Examples\DirectoryTraversalAttacks\DirectoryTraversalAttacks\bin\Debug\net8.0\DirectoryTraversalAttacks.deps.json
+C:\Users\456bi\Downloads\Presentation\3. Coding Examples\DirectoryTraversalAttacks\DirectoryTraversalAttacks\bin\Debug\net8.0\DirectoryTraversalAttacks.runtimeconfig.json
+C:\Users\456bi\Downloads\Presentation\3. Coding Examples\DirectoryTraversalAttacks\DirectoryTraversalAttacks\bin\Debug\net8.0\DirectoryTraversalAttacks.dll
+C:\Users\456bi\Downloads\Presentation\3. Coding Examples\DirectoryTraversalAttacks\DirectoryTraversalAttacks\bin\Debug\net8.0\DirectoryTraversalAttacks.pdb
+C:\Users\456bi\Downloads\Presentation\3. Coding Examples\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\DirectoryTraversalAttacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\456bi\Downloads\Presentation\3. Coding Examples\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\DirectoryTraversalAttacks.AssemblyInfoInputs.cache
+C:\Users\456bi\Downloads\Presentation\3. Coding Examples\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\DirectoryTraversalAttacks.AssemblyInfo.cs
+C:\Users\456bi\Downloads\Presentation\3. Coding Examples\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\DirectoryTraversalAttacks.csproj.CoreCompileInputs.cache
+C:\Users\456bi\Downloads\Presentation\3. Coding Examples\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\DirectoryTraversalAttacks.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\456bi\Downloads\Presentation\3. Coding Examples\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\DirectoryTraversalAttacks.RazorAssemblyInfo.cache
+C:\Users\456bi\Downloads\Presentation\3. Coding Examples\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\DirectoryTraversalAttacks.RazorAssemblyInfo.cs
+C:\Users\456bi\Downloads\Presentation\3. Coding Examples\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\456bi\Downloads\Presentation\3. Coding Examples\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\456bi\Downloads\Presentation\3. Coding Examples\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\staticwebassets\msbuild.DirectoryTraversalAttacks.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\456bi\Downloads\Presentation\3. Coding Examples\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\staticwebassets\msbuild.build.DirectoryTraversalAttacks.props
+C:\Users\456bi\Downloads\Presentation\3. Coding Examples\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DirectoryTraversalAttacks.props
+C:\Users\456bi\Downloads\Presentation\3. Coding Examples\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DirectoryTraversalAttacks.props
+C:\Users\456bi\Downloads\Presentation\3. Coding Examples\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\456bi\Downloads\Presentation\3. Coding Examples\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\456bi\Downloads\Presentation\3. Coding Examples\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\scopedcss\bundle\DirectoryTraversalAttacks.styles.css
+C:\Users\456bi\Downloads\Presentation\3. Coding Examples\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\scopedcss\projectbundle\DirectoryTraversalAttacks.bundle.scp.css
+C:\Users\456bi\Downloads\Presentation\3. Coding Examples\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\DirectoryTraversalAttacks.dll
+C:\Users\456bi\Downloads\Presentation\3. Coding Examples\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\refint\DirectoryTraversalAttacks.dll
+C:\Users\456bi\Downloads\Presentation\3. Coding Examples\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\DirectoryTraversalAttacks.pdb
+C:\Users\456bi\Downloads\Presentation\3. Coding Examples\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\DirectoryTraversalAttacks.genruntimeconfig.cache
+C:\Users\456bi\Downloads\Presentation\3. Coding Examples\DirectoryTraversalAttacks\DirectoryTraversalAttacks\obj\Debug\net8.0\ref\DirectoryTraversalAttacks.dll

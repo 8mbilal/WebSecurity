@@ -1,0 +1,33 @@
+﻿@model FileViewModel
+@{
+    ViewData["Title"] = "VulnerableReadFile";
+}
+<div class="container mt-4">
+    <h1>File Reader</h1>
+    <form asp-action="VulnerableReadFile" method="post">
+        <div class="form-group">
+            <label for="filePath">File Path</label>
+            <input type="text" id="filePath" name="FilePath" class="form-control" placeholder="Enter the relative file path..." />
+        </div>
+
+        <button type="submit" class="btn btn-primary mt-2">Read File</button>
+    </form>
+
+    <!-- Hint Section -->
+    <div class="alert alert-info mt-4">
+        <strong>Hint:</strong> You can try the following paths to see the vulnerability:
+        <ul>
+            <li><code>../../Properties/launchSettings.json</code> (Expected: Accessible)</li>
+            <li><code>../../appsettings.json</code> (Expected: Accessible)</li>
+            <li><code>../../Controllers/FileController.cs</code> (Expected: Accessible)</li>
+            <li><code>../../Views/_ViewStart.cshtml</code> (Expected: Accessible)</li>
+            <li><code>../../Program.cs</code> (Expected: Accessible)</li>
+        </ul>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
