@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Register";
+}
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        @TempData["Message"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<div class="text-center">
+    <h2 class="display-6 mb-lg-5">Defending against Mass Assignment Attack</h2>
+    <p>Click <a href="/Register/VulnerableRegister">here</a> to register using unsafe method.</p>
+    <p>Click <a href="/Register/RegisterSafe1">here</a> to register using safe method 1.</p>
+    <p>Click <a href="/Register/RegisterSafe2">here</a> to register using safe method 2.</p>
+    <p>Click <a href="/Register/RegisterSafe3">here</a> to register using safe method 3.</p>
+    <p>Click <a href="/Register/RegisterSafe4">here</a> to register using safe method 4.</p>
+</div>

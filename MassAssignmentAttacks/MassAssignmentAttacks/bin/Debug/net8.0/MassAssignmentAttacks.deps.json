@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MassAssignmentAttacks/1.0.0": {
+        "runtime": {
+          "MassAssignmentAttacks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MassAssignmentAttacks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
